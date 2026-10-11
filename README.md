@@ -1,6 +1,6 @@
 # Hi, I'm Abdelrahman Ahmed 👋
 
-### Data Analyst | Data Analytics | Football Analytics
+### Data Analyst | Python • SQL • Power BI | Football Analytics
 
 I'm a Computer Science student focused on Data Analytics and
 building practical solutions around real-world data.
@@ -64,15 +64,57 @@ I work on projects involving:
 
 ### 🚀 Featured Projects
 
-⚽ **Football Analytics Dashboard**  
-Python • Pandas • SQL • SQLite • Matplotlib
+### 🛒 E-Commerce Customer & Business Analytics
+**Python • Pandas • SQL Server • Power BI • DAX**
 
-📊 **U23 Left-Winger Recruitment Filter & Shortlist**  
-Python • SQL • Statistics • Power BI
+- Built an end-to-end analytics project using the Brazilian Olist e-commerce dataset.
+- Cleaned and explored multi-table data using Python and Pandas.
+- Used SQL Server to analyze sales, customer retention, payment behavior, seller performance, and delivery performance.
+- Developed a three-page Power BI report covering executive KPIs, customer behavior, product performance, and delivery insights.
 
-🏆 **Football Statistics Analyzer**  
-Python • SQL • SQLite
+[📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/Ecommerce-Customer-Business-Analytics)
 
+---
+
+### 📊 Retail Sales Analytics
+**Python • Pandas • SQL Server • Power BI**
+
+- Cleaned and prepared retail sales data using Python and Pandas.
+- Analyzed profitability, discounts, product categories, customer segments, and regional performance.
+- Built a three-page Power BI report for business reporting and decision-making.
+
+[📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/Freelance-Retail-Analytics)
+
+---
+
+### ⚽ Football Analytics Dashboard
+**Python • Pandas • SQLite • Matplotlib**
+
+- Analyzed team performance using football match data.
+- Developed reusable analytics functions and performance metrics.
+- Created visualizations to compare attacking, defensive, and overall team performance.
+
+[📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/football-analytics-dashboard)
+
+---
+
+### 🏆 Football Statistics Analyzer
+**Python • SQL • SQLite**
+
+- Built a football statistics analysis application using a relational database.
+- Implemented queries and calculations for team performance, wins, draws, losses, goals, and points.
+
+[📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/football-statistics-analyzer)
+
+---
+
+### ⚽ U23 Left-Winger Recruitment Filter & Shortlist
+**Python • SQL • Statistics • Football Analytics**
+
+- Developed a data-driven recruitment filter for identifying potential U23 left-winger targets.
+- Used player performance statistics to compare candidates and create a shortlist.
+
+[📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/U23-Left-Winger-Recruitment-Filter-Shortlist)
 ### 🎯 Currently
 
 - Building my Data Analytics portfolio
@@ -83,4 +125,4 @@ Python • SQL • SQLite
 
 ### 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](YOUR_GITHUB_URL)
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-ahmed-latif/) • [GitHub](https://github.com/AbdelrahmanAhmad313)
