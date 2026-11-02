@@ -1,128 +1,122 @@
 # Hi, I'm Abdelrahman Ahmed 👋
 
-### Data Analyst | Python • SQL • Power BI | Football Analytics
+### Aspiring Data Analyst | Python • SQL • Power BI • Excel
 
-I'm a Computer Science student focused on Data Analytics and
-building practical solutions around real-world data.
+I'm a Computer Science student focused on Data Analytics and Business Intelligence, with hands-on experience turning raw data into meaningful insights.
 
-I work across the data workflow — from cleaning and transforming
-raw datasets to analyzing data, building dashboards, and turning
-results into useful insights.
+I work across the data analysis workflow, from cleaning and transforming datasets to writing SQL queries, exploring trends, analyzing business performance, and building interactive dashboards that support data-driven decisions.
 
-### 🛠️ What I Work With
+I'm continuously improving my analytical and technical skills through practical projects based on real-world business problems.
 
-**Data Analysis & Programming**
-- Python
-- Pandas
-- NumPy
-- SQL
+### 🛠️ Technical Skills
 
-**Data Cleaning & Transformation**
-- Data Cleaning
-- Data Preparation
-- Data Transformation
-- Data Modeling
-- Exploratory Data Analysis
+**Programming & Data Analysis**
+
+* Python
+* Pandas
+* NumPy
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Data Cleaning & Preparation
+
+**SQL & Databases**
+
+* SQL
+* SQL Server
+* SQLite
+* Joins, CTEs, Subqueries & Window Functions
+* Data Aggregation & Business Analysis
 
 **Business Intelligence & Visualization**
-- Power BI
-- Tableau
-- Excel
-- Matplotlib
 
-**Databases & Tools**
-- SQLite
-- Git
-- GitHub
+* Power BI
+* DAX
+* Power Query
+* Tableau
+* Microsoft Excel
+* Matplotlib
+* Dashboard Development & Data Visualization
 
-### 📊 What I Can Help With
+**Data Management & Tools**
 
-- Data Cleaning & Preparation
-- Exploratory Data Analysis
-- SQL Data Analysis
-- Excel Data Analysis & Dashboards
-- Power BI Dashboards
-- Tableau Dashboards
-- Data Transformation & Modeling
-- KPI & Performance Analysis
-- Reporting & Visualization
-- Turning raw datasets into structured insights
+* Data Transformation
+* Data Modeling
+* Git & GitHub
 
-### ⚽ Football Analytics
+### 📊 What I Do
 
-Football Analytics is my main area of specialization and a field
-I want to continue developing alongside my broader Data Analytics
-career.
-
-I work on projects involving:
-
-- Player & Team Performance Analysis
-- Recruitment Analytics
-- Scouting Data
-- Football Performance Dashboards
-- Statistical Analysis
+* Clean, transform, and prepare datasets for analysis.
+* Use SQL to investigate business performance and answer analytical questions.
+* Perform exploratory data analysis to identify trends, patterns, and anomalies.
+* Analyze sales, profitability, customer behavior, and operational performance.
+* Build interactive dashboards and reports using Power BI and Tableau.
+* Develop KPIs and translate analytical findings into actionable recommendations.
+* Communicate insights through clear visualizations and structured reports.
 
 ### 🚀 Featured Projects
 
-### 🛒 E-Commerce Customer & Business Analytics
+#### 🛒 E-Commerce Customer & Business Analytics
+
 **Python • Pandas • SQL Server • Power BI • DAX**
 
-- Built an end-to-end analytics project using the Brazilian Olist e-commerce dataset.
-- Cleaned and explored multi-table data using Python and Pandas.
-- Used SQL Server to analyze sales, customer retention, payment behavior, seller performance, and delivery performance.
-- Developed a three-page Power BI report covering executive KPIs, customer behavior, product performance, and delivery insights.
+An end-to-end analytics project exploring e-commerce sales, customer behavior, and operational performance using the Brazilian Olist public dataset.
+
+* Cleaned and explored multiple related datasets using Python and Pandas.
+* Used SQL Server, joins, CTEs, aggregations, and window functions to analyze business performance.
+* Investigated sales trends, customer retention, payment behavior, seller performance, and delivery performance.
+* Built a three-page Power BI report covering executive KPIs, customer behavior, product performance, and delivery insights.
 
 [📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/Ecommerce-Customer-Business-Analytics)
 
 ---
 
-### 📊 Retail Sales Analytics
+#### 📊 Retail Sales Analytics
+
 **Python • Pandas • SQL Server • Power BI**
 
-- Cleaned and prepared retail sales data using Python and Pandas.
-- Analyzed profitability, discounts, product categories, customer segments, and regional performance.
-- Built a three-page Power BI report for business reporting and decision-making.
+An analytics project focused on retail sales, profitability, and business performance.
+
+* Cleaned and prepared sales data using Python and Pandas.
+* Analyzed profitability, discounts, product categories, customer segments, and regional performance.
+* Identified trends and areas of weak profitability through SQL-based analysis.
+* Developed a three-page Power BI dashboard covering executive KPIs, profitability, and customer and product performance.
 
 [📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/Freelance-Retail-Analytics)
 
 ---
 
-### ⚽ Football Analytics Dashboard
-**Python • Pandas • SQLite • Matplotlib**
+#### ⚽ Football Statistics Analyzer
 
-- Analyzed team performance using football match data.
-- Developed reusable analytics functions and performance metrics.
-- Created visualizations to compare attacking, defensive, and overall team performance.
+**Python • SQL • SQLite • Pandas**
 
-[📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/football-analytics-dashboard)
+A statistical analysis project demonstrating how data analysis techniques can be applied to sports performance data.
 
----
-
-### 🏆 Football Statistics Analyzer
-**Python • SQL • SQLite**
-
-- Built a football statistics analysis application using a relational database.
-- Implemented queries and calculations for team performance, wins, draws, losses, goals, and points.
+* Used SQL and relational databases to analyze football match results.
+* Calculated team performance metrics, including wins, draws, losses, goals, and points.
+* Applied analytical techniques to compare team performance and identify patterns.
 
 [📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/football-statistics-analyzer)
 
 ---
 
-### ⚽ U23 Left-Winger Recruitment Filter & Shortlist
-**Python • SQL • Statistics • Football Analytics**
+#### 📈 Football Analytics Dashboard
 
-- Developed a data-driven recruitment filter for identifying potential U23 left-winger targets.
-- Used player performance statistics to compare candidates and create a shortlist.
+**Python • Pandas • SQLite • Matplotlib**
 
-[📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/U23-Left-Winger-Recruitment-Filter-Shortlist)
-### 🎯 Currently
+A data visualization project focused on comparing team performance through statistical metrics.
 
-- Building my Data Analytics portfolio
-- Developing practical data projects
-- Expanding my Power BI, Tableau, Excel, Python and SQL skills
-- Preparing to work with real-world data and freelance projects
-- Developing Football Analytics as my long-term specialization
+* Developed reusable data transformation and analytics functions.
+* Analyzed attacking, defensive, home, and away performance.
+* Created visualizations to compare team statistics and performance consistency.
 
-### 📫 Connect With Me
+[📂 View Project on GitHub](https://github.com/AbdelrahmanAhmad313/football-analytics-dashboard)
 
-[LinkedIn](https://www.linkedin.com/in/abdelrahman-ahmed-latif/) • [GitHub](https://github.com/AbdelrahmanAhmad313)
+---
+
+#### 🎯 U23 Left-Winger Recruitment Analysis
+
+**Python • SQL • Statistics • Power BI**
+
+A data-driven player recruitment project using statistical performance indicators to compare candidates.
+
+* Applied eligibility and performance criteria to filter potential recruitment targets.
